@@ -1,6 +1,6 @@
 title: Frutas
 description: "Blog con las mejores frutas del mundo"
-logo_img: "https://raw.githubusercontent.com/AsierRodriguezO/satellite/gh-pages/assets/img/logo.jpg"
+logo_img: "/assets/img/logo.jpg"
 profile_img: "https://raw.githubusercontent.com/AsierRodriguezO/satellite/gh-pages/assets/img/perfil.jpg" #perfil
 
 # Social Links

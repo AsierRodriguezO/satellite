@@ -1,40 +1,72 @@
 ---
-title: "Activate Goat Counter to know how many users visit your blog or posts"
+title: "Frutas de Otoño"
+date: 2025-11-25
 tags:
-    - user manual
-    - utility
-    - goatcounter
-date: "2024-02-02"
-thumbnail: "https://i.ibb.co/xj20N3N/card.webp"
+    - frutas
+    - otoño
+    - gastronomía
+thumbnail: "https://raw.githubusercontent.com/AsierRodriguezO/satellite/gh-pages/assets/img/otoño.jpg"
+permalink: /frutas-otono/
 bookmark: true
+
 ---
 
-[![goatcounter](https://cdn.icon-icons.com/icons2/2699/PNG/512/goatcounter_logo_icon_170078.png){:class="img-md"}](https://www.goatcounter.com/)
+![Frutas de otoño - mezcla](https://raw.githubusercontent.com/AsierRodriguezO/satellite/gh-pages/assets/img/otoño.jpg)
 
-GoatCounter is an open source **web analytics platform** available as a free donation-supported hosted service or self-hosted app. It aims to offer easy to use and meaningful privacy-friendly web analytics as an alternative to Google Analytics or Matomo (*in official guide*).
+# Frutas de otoño
 
-# Getting started
+> Colores cálidos, sabores intensos y frutas que invitan a recetas reconfortantes.
+
+## Por qué elegir frutas de otoño
+
+El otoño ofrece frutas con sabor profundo, perfectas para conservas, tartas y platos que nos preparan para el frío.
+
+## Frutas destacadas de la estación
+
+### 1. Manzana
+
+![Manzanas](https://raw.githubusercontent.com/AsierRodriguezO/satellite/gh-pages/assets/img/manzana.jpg)
+
+La manzana es un clásico otoñal: perfecta para asar, en compotas o en tartas con canela.
+
 ---
 
-## Sign up & Get your access code
+### 2. Pera
 
-Create new account in [here](https://www.goatcounter.com/signup)
+![Peras](https://raw.githubusercontent.com/AsierRodriguezO/satellite/gh-pages/assets/img/pera.jpg)
 
-You will access your blog statistics at `https://[my-code].goatcounter.com`.
+Las peras tienen una textura suave que brilla en postres y platos salados.
 
-## Add your code to `_config.yml`
+---
 
-```
-goatcounter_code: [my-code]
-```
+### 3. Caqui (Persimón)
 
-Check if your adblocker is blocking GoatCounter if you don’t see any pageviews.
+![Caqui](https://raw.githubusercontent.com/AsierRodriguezO/satellite/gh-pages/assets/img/caqui.jpg)
 
-## Allow visitor counter
+El caqui madura en otoño y ofrece una dulzura melosa que va muy bien en tostadas y compotas.
 
-Sign in **Goat counter** from your browser, and enter the [Settings](https://[my-code].goatcounter.com/settings/main) tab.
+---
 
-Make sure `Allow adding visitor counts on your website` is checked:
+### 4. Uvas
 
-![](https://i.ibb.co/R7TKCmy/2024-01-13-043651.png){:class="img-md"}
+![Uvas](https://raw.githubusercontent.com/AsierRodriguezO/satellite/gh-pages/assets/img/uvas.jpg)
+
+Las uvas otoñales son excelentes para consumir frescas o para hacer mermeladas y vinos caseros.
+
+---
+
+## Ideas y usos en la cocina
+
+- Tarta de manzana con masa casera.
+- Peras al vino con especias.
+- Compota de caqui para yogur o tostadas.
+
+## Conservación y compra
+
+- Guarda manzanas y peras en frío para alargar su vida útil.
+- Revisa las uvas para quitar frutas dañadas antes de guardar.
+
+---
+
+¿Quieres que cree posts con recetas otoñales o relatos inspirados en la estación? Puedo generarlos ahora.
 
