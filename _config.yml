@@ -1,11 +1,11 @@
-title: example.com
-description: "Satellite - jekyll blog theme"
+title: Frutas
+description: "Blog con las mejores frutas del mundo"
 logo_img: "/assets/img/favicon.webp"
-profile_img: "/assets/img/profile.webp"
+profile_img: "/assets/img/profile.webp" #perfil
 
 # Social Links
-email: example@gmail.com
-github_username: github
+email: Arodriguezo02@educantabria.es
+github_username: AsierRodriguezO
 twitter_username: twitter
 instagram_username: instagram
 linkedin_username: linkedin
