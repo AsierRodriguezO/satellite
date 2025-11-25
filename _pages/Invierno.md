@@ -1,58 +1,96 @@
 ---
-title: "Manage blog comments with Giscus"
+title: "Frutas de Invierno"
+date: 2025-11-25
 tags:
-    - user manual
-    - utility
-    - giscus
-date: "2024-02-03"
-thumbnail: "https://i.ibb.co/V9j2Qsg/giscus-Wl0-X3byd-az-U68-1.webp"
-bookmark: true
+    - frutas
+    - invierno
+    - gastronomía
+thumbnail: "https://images.unsplash.com/photo-1601004890684-d8cbf643f5f2?auto=format&fit=crop&w=1400&q=80"
+permalink: /frutas-invierno/
 ---
 
-[![goatcounter](https://opengraph.githubassets.com/4f866d5b634e7cd5422af77f8dbfb6d48dd288b7c5c18326544c1973210320ed/giscus/giscus){:class="img-lg"}](https://www.goatcounter.com/)
+![Frutas de invierno - mezcla](https://images.unsplash.com/photo-1601004890684-d8cbf643f5f2?auto=format&fit=crop&w=1200&q=80)
 
-**Giscus** is a free **comments system** powered without your own database. Giscus uses the Github Discussions to store and load associated comments based on a chosen mapping (URL, pathname, title, etc.).
+# Frutas de invierno
 
-To comment, visitors must authorize the giscus app to post on their behalf using the GitHub OAuth flow. Alternatively, visitors can comment on the GitHub Discussion directly. You can moderate the comments on GitHub.
+> Temporada de colores cálidos y sabores reconfortantes: descubre las frutas que llenan de vida los meses fríos.
 
-# Prerequisites
+## Por qué comer frutas en invierno
+
+Las frutas de invierno no solo aportan vitaminas esenciales para las defensas, sino que también traen texturas y aromas únicos que combinan perfectamente con platos calientes, postres caseros y bebidas reconfortantes.
+
+## Frutas destacadas de la estación
+
+### 1. Naranja (Cítricos)
+
+![Naranjas](https://images.unsplash.com/photo-1502741126161-b048400d64e6?auto=format&fit=crop&w=1200&q=80)
+
+Las naranjas son la reina del invierno: jugosas, dulces y ricas en vitamina C. Son perfectas para zumos, ensaladas y glaseados.
+
+Consejo: prueba una ensalada de rúcula, naranja y nueces con un toque de miel.
+
 ---
 
-## Create a github repo
+### 2. Mandarina / Clementina
 
-You need a GitHub repository first. If you gonna use *GitHub Pages* for hosting your website, you can choose the corresponding repository (i.e., `[userID].github.io`)
+![Mandarinas](https://images.unsplash.com/photo-1502741126161-b048400d64e6?auto=format&fit=crop&w=1200&q=80&ixlib=rb-4.0.3)
 
-The repository should be **public**, otherwise visitors will not be able to view the discussion.
+Fáciles de pelar y con un dulzor natural, las mandarinas son snack ideal para llevar y para añadir un punto cítrico a postres.
 
-## Turn on Discussion feature
-
-In your GitHub repository Settings, make sure that `General` > `Features` > `Discussions` feature is enabled.
-
-![Discussion](https://i.ibb.co/P1FV02D/giscus-00.png)
-
-# Activate Giscus API
 ---
 
-Follow the steps in [Configuration guide](https://giscus.app/). Make sure the verification of your repository is successful.
+### 3. Granada
 
-![Verification](https://i.ibb.co/y87w8rB/giscus-02.png)
+![Granada](https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&w=1200&q=80)
 
-Then, scroll down from the manual page and choose the `Discussion Category` options. You don't need to touch other configs.
+Las semillas (arilos) de la granada son crujientes y brillantes; aportan color y un contraste ácido perfecto para ensaladas, yogures y salsas.
 
-![Verification](https://i.ibb.co/0hqLWX0/giscus-03.png)
+---
 
-## Copy  `_config.yml`
+### 4. Manzana y Pera
 
-Now, you get the giscus script. Copy the four properties marked with a red box as shown below:
+![Manzanas y peras](https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=1200&q=80)
 
-![](https://i.ibb.co/Z154x8P/giscus-04.png)
+Manzanas y peras son versátiles: se pueden comer crudas, asadas o en compotas. Ideal para tartas calientes acompañadas de canela.
 
-Paste those values to `_config.yml` placed in the root directory.
+Receta rápida: manzanas al horno con miel y almendras.
 
-```
-# External API
-giscus_repo: "[ENTER REPO HERE]"
-giscus_repoId: "[ENTER REPO ID HERE]"
-giscus_category: "[ENTER CATEGORY NAME HERE]"
-giscus_categoryId: "[ENTER CATEGORY ID HERE]"
-```
+---
+
+### 5. Kiwi
+
+![Kiwis](https://images.unsplash.com/photo-1567306226416-28f0efdc88ce?auto=format&fit=crop&w=1200&q=80)
+
+Pequeño pero potente: el kiwi aporta vitamina C y una acidez refrescante que armoniza con postres y smoothies.
+
+---
+
+### 6. Caqui (Persimón)
+
+![Caqui](https://upload.wikimedia.org/wikipedia/commons/4/46/Diospyros_kaki_fruits.jpg)
+
+De pulpa suave y dulce, el caqui es un manjar meloso que se come fresco o en compotas. Su textura cremosa es maravillosa en tostadas con queso.
+
+---
+
+## Ideas y usos en la cocina
+
+- Zumo de naranja natural con un toque de jengibre.
+- Ensalada templada de espinacas, granada y queso de cabra.
+- Compota de manzana con canela y un chorrito de limón.
+- Smoothie de kiwi, plátano y yogur para el desayuno.
+- Postre: pera pochada en vino especiado.
+
+## Conservación y compra
+
+- Compra fruta firme y con buen aroma.
+- Guarda las frutas cítricas a temperatura ambiente y las manzanas/ peras en la nevera para prolongar su frescura.
+- Consume la fruta fresca en pocos días para aprovechar mejor sus vitaminas.
+
+## Recursos y créditos de imágenes
+
+Las imágenes enlazadas proceden de bancos de imágenes libres y fuentes públicas (Unsplash, Wikimedia Commons). Asegúrate de revisar licencias si quieres reutilizarlas fuera del sitio.
+
+---
+
+¿Quieres que añada recetas completas basadas en estas frutas o cree entradas del blog con relatos cortos inspirados en la temporada? Puedo generar posts y una página "Acerca de" a juego.
